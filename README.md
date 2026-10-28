@@ -23,8 +23,9 @@ Open `calFace.html` directly in a browser. Alternatively, serve the project dire
 - Add, subtract, multiply, and divide.
 - Clear the current calculation.
 - Display an error when dividing by zero.
+- Percentage calculation
+- Use of decimal
 
-The keypad also shows decimal, percent, and backspace-style buttons, but those operations are not implemented yet. Decimal input is not currently supported.
 
 ## Project files
 
